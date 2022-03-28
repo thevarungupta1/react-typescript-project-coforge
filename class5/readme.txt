@@ -95,6 +95,39 @@ Ste7:
 consume store in react components
 
 
+- Testing
+
+What is Testing?
+testing is the process of checking functionality of an application to ensure it runs as per requirement
+unit testing is one of the most commonly used type of testing
+
+- unit testing
+- integration testing
+- end to end testing
+
+unit testing
+- it means testing the smallest unit of the application
+it plays a crucial role in the test driven development
+unit testing is all about testig method individually and in the isolation
+
+
+What to test
+what -> test the different building block-> the smallest building block that make your app
+
+How
+jest -> it is a tool for running our tests and asserting the result
+React testing library -> it is a tool for simulating our react app / component
+
+both the tools are already setup for your app when we create app using create-react-app
+
+
+Triple A - golden rule for unit testing
+
+A - Arrange
+A - Act
+A - Assert
+
+
 
 
 
